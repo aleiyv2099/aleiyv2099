@@ -9,9 +9,8 @@
 
 <!-- ⬇️ REEMPLAZA los enlaces con los tuyos -->
 <p align="center">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alex-eduardo-quimiz-plaza-b2ab423a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexeduardoquimizplaza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- badges de "categoría" al estilo del que te gustó -->
@@ -103,6 +102,6 @@ Estudiante de **Ingeniería de Software (8vo semestre)** en la **Universidad de 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleiyv2099&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aleiyv2099&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleiyv2099&layout=compact&theme=github_dark&hide_border=true" width="35%"/>
 </div>
