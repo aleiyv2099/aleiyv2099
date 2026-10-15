@@ -101,7 +101,7 @@ Estudiante de **Ingeniería de Software (8vo semestre)** en la **Universidad de 
 
 ### Personales (repos privados 🔒)
 - **NotSoRabbit** · `Python` · `discord.py` · `Pillow` · `Docker` — Bot de Discord estilo NotSoBot: efectos de imagen/video, tags, IA con Gemini e imágenes con IA.
-- **Important Geso Page** · `Angular 20` · `SSR` · `TypeScript` — Página de memes del grupo de amigos. Sí, la hice. No, no me arrepiento.
+- **Important Geso Page** · `Angular 20` · `SSR` · `TypeScript` — Página con las fotos del gato de una amiga. Sí, la hice. No, no me arrepiento.
 
 ---
 
