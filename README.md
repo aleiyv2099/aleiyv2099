@@ -99,6 +99,10 @@ Estudiante de **Ingeniería de Software (8vo semestre)** en la **Universidad de 
 ### Retro / Modding
 - **[PES Fan Editor — Python Port](https://github.com/aleiyv2099/Pes-Fan-Editor-Python-Port)** · `Python` — Port a Python del PES FAN Editor (originalmente en Java).
 
+### Personales (repos privados 🔒)
+- **NotSoRabbit** · `Python` · `discord.py` · `Pillow` · `Docker` — Bot de Discord estilo NotSoBot: efectos de imagen/video, tags, IA con Gemini e imágenes con IA.
+- **Important Geso Page** · `Angular 20` · `SSR` · `TypeScript` — Página de memes del grupo de amigos. Sí, la hice. No, no me arrepiento.
+
 ---
 
 <div align="center">
